@@ -1,6 +1,6 @@
 from django.http import HttpResponse
 
-
+#comments_here_please
 def index(request):
     return HttpResponse('У меня получилось!')
 
